@@ -6,4 +6,5 @@ public class Printer {
 	void print(int num)
 	void print(double value, final String unit)
 
+	//почему выдает ошибку?
 }
