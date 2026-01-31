@@ -25,5 +25,5 @@ public class Charcter {
 	public Charcter getst() {
 		return this;
 		
-	}
+	} 
 }
