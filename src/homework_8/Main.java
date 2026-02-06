@@ -9,8 +9,5 @@ public class Main {
 		p2.printNameL();
 		
 		
-		Counter c1 = new Counter();
-		c1.totlcount;
-		c1.instancecount;
 	}
 }
