@@ -7,6 +7,10 @@ public class BankAccount {
 	
 	public void deposit(double amount) {
 		balance+=amount;
+		
+		if(amount>balance) {
+			System.err.println("you dont have enough money");
+		}
 	}
 	
 	public void withdraw(double amount) {
